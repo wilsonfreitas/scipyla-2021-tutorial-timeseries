@@ -5,6 +5,6 @@ yfinance
 numpy
 pandas
 matplotlib
-statsmodes
+statsmodels
 pmdarima
 arch
