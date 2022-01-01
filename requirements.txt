@@ -8,3 +8,4 @@ matplotlib
 statsmodels
 pmdarima
 arch
+pyarrow
