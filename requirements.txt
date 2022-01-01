@@ -1,0 +1,10 @@
+python-bcb==0.1.3
+lxml
+requests
+yfinance
+numpy
+pandas
+matplotlib
+statsmodes
+pmdarima
+arch
